@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Alura 2 OO/Alura 2 OO.iml" filepath="$PROJECT_DIR$/../Alura 2 OO/Alura 2 OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alura 2 OO bytebank-composto.iml" filepath="$PROJECT_DIR$/Alura 2 OO bytebank-composto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Alura 2 OO bytebank-encapsulado/Alura 2 OO bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/../Alura 2 OO bytebank-encapsulado/Alura 2 OO bytebank-encapsulado.iml" />
+    </modules>
+  </component>
+</project>
